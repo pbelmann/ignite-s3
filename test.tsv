@@ -1,0 +1,3 @@
+READS	SAMPLE
+https://openstack.cebitec.uni-bielefeld.de:8080/swift/v1/CAMI_I_LOW/RL_S001__insert_270.fq.gz	test1
+https://openstack.cebitec.uni-bielefeld.de:8080/swift/v1/CAMI_I_LOW/RL_S001__insert_270.fq.gz	test2
