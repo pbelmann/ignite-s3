@@ -3,6 +3,8 @@
 
 ### Prerequisites
 
+Access to an S3 bucket.
+
 #### S3 access
 
 How to run:
